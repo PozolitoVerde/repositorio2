@@ -9,3 +9,5 @@ git mv mover o renombrar el archivo
 git add . guardar todos los archivos en el stage(repositorio).
 git config --globar user.name "" con este comando establecemos nuestro nombre.
 git config --global user.email "" con este comando establecemos nuestro email.
+git rm -- cached "" se utiliza para ignorar o sacar un archivo del stage para que git no lo tome en cuenta.
+git comando universal para cualquier operacion en git.
