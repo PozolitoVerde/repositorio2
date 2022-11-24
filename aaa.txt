@@ -1,0 +1,11 @@
+git add agrega archivos al stage 
+git commit guarda lo modiicado y crea una version
+git switch nos movemos entre distintas versiones
+git log nos muestra las diferentes versiones 
+git status nos muestra el estado de los archivos que esta adentro de la carpeta en la que se inico el repositorio
+git init crear un repositorio
+git restore sirve para restaurar lo que se ha modificado volviendo al commit
+git mv mover o renombrar el archivo
+git add . guardar todos los archivos en el stage(repositorio).
+git config --globar user.name "" con este comando establecemos nuestro nombre.
+git config --global user.email "" con este comando establecemos nuestro email.
